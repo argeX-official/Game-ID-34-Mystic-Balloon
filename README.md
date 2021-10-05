@@ -14,8 +14,8 @@ This project has been released under the MIT License by it's developer.
 
 The full document can be found in the [LICENSE][5] file.
 
-[1]: Developer
+[1]: http://www.team-arg.org/more-about.html
 [2]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon
-[3]: Orijinal-Readme
-[4]: watchX-Hex
-[5]: Lisans
+[3]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon/blob/master/OLD_README.md
+[4]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon/releases
+[5]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon/blob/master/LICENSE
