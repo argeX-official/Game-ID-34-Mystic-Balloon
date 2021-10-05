@@ -1,13 +1,21 @@
-# Mystic Balloon
+## **Mystic Balloon**
 
-![Image](http://www.team-arg.org/masterfiles/team-arg-mybl/images/banner-ID-34.png)
+This project has been developed by [TEAM a.r.g.][1] and forked directly from [Game-ID-34-Mystic-Balloon][2].
 
-Mystic Balloon : http://www.team-arg.org/mybl-manual.html  
-**Download latest Arduboy version and source :** https://github.com/TEAMarg/ID-34-Mystic-Balloon/releases/latest  
-MADE by TEAM a.r.g. : http://www.team-arg.org/more-about.html
- 
-2016 - GEVANO - CASTPIXEL - JO3RI - Martian220
+You can read the original README file from [here][3].
 
-Thanks to MLXXXP for his help on switching from ARGlib to the Arduboy 2 library
+You can download the .hex file of this project **compiled for watchX** from [here][4].
 
-Game License: MIT : https://opensource.org/licenses/MIT
+There is no original README file released by the developer.
+
+## **License**
+
+This project has been released under the MIT License by it's developer.
+
+The full document can be found in the [LICENSE][5] file.
+
+[1]: Developer
+[2]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon
+[3]: Orijinal-Readme
+[4]: watchX-Hex
+[5]: Lisans
